@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513049143123",
+    "project_id": "pumipat151",
+    "storage_bucket": "pumipat151.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513049143123:android:b6ce1d23f91ecb81a423a6",
+        "android_client_info": {
+          "package_name": "com.example.pumipat151"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtz6gEjcDbyCd3jIoYn3MR3CGYr5oI-vI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
